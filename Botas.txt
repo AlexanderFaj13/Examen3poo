@@ -1,0 +1,18 @@
+Caracteristicas de la bota 1
+
+Marca: Poer
+Precio: 21213.0
+Materia Prima: Cuero
+Talla: 321.0
+Color: Negri
+Que bien tengo mucha suerte me quedaran estos bota de la marca Poer que son talla 321.0 y solo valen 21213.0 lempiras
+
+Caracteristicas de la bota 2
+
+Marca: sdf
+Precio: 23.0
+Materia Prima: we
+Talla: 534.0
+Color: ge
+Que bien tengo mucha suerte me quedaran estos bota de la marca sdf que son talla 534.0 y solo valen 23.0 lempiras
+
